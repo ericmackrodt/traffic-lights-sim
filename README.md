@@ -5,6 +5,8 @@ Description
 
 Simulates an intersection with four traffic lights (N, S, E, W). It cycles though the traffic light colors in a 5 minute period until they are red and makes the ones that were previously red green again.
 
+Click here for a [live demo](https://jsfiddle.net/ericmackrodt/vaa5mm3y/).
+
 Approach/Assumptions
 --------------------
 
