@@ -1,0 +1,20 @@
+ul.traffic-lights-list > li > span.light {
+    height: 14px;
+    width: 14px;
+    border-radius: 14px;
+    display: inline-block;
+    margin-right: 4px;
+    background: #CCC;
+}
+
+ul.traffic-lights-list > li.red > span.light.red {
+    background: #ff0000 !important;
+}
+
+ul.traffic-lights-list > li.yellow > span.light.yellow {
+    background: #ffff00 !important;
+}
+
+ul.traffic-lights-list > li.green > span.light.green {
+    background: #66ff66 !important;
+}

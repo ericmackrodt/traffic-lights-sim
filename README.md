@@ -1,0 +1,25 @@
+[Sun Apr 23 2017 17:42:58 GMT+1000 (AUS Eastern Standard Time)] - north: green, south: green, west: red, east: red
+uiController.js:56 [Sun Apr 23 2017 17:47:29 GMT+1000 (AUS Eastern Standard Time)] - north: yellow, south: yellow, west: red, east: red
+uiController.js:56 [Sun Apr 23 2017 17:48:00 GMT+1000 (AUS Eastern Standard Time)] - north: red, south: red, west: red, east: red
+uiController.js:56 [Sun Apr 23 2017 17:48:01 GMT+1000 (AUS Eastern Standard Time)] - north: red, south: red, west: green, east: green
+uiController.js:56 [Sun Apr 23 2017 17:52:32 GMT+1000 (AUS Eastern Standard Time)] - north: red, south: red, west: yellow, east: yellow
+uiController.js:56 [Sun Apr 23 2017 17:53:03 GMT+1000 (AUS Eastern Standard Time)] - north: red, south: red, west: red, east: red
+uiController.js:56 [Sun Apr 23 2017 17:53:04 GMT+1000 (AUS Eastern Standard Time)] - north: green, south: green, west: red, east: red
+uiController.js:56 [Sun Apr 23 2017 17:57:35 GMT+1000 (AUS Eastern Standard Time)] - north: yellow, south: yellow, west: red, east: red
+uiController.js:56 [Sun Apr 23 2017 17:58:06 GMT+1000 (AUS Eastern Standard Time)] - north: red, south: red, west: red, east: red
+uiController.js:56 [Sun Apr 23 2017 17:58:07 GMT+1000 (AUS Eastern Standard Time)] - north: red, south: red, west: green, east: green
+uiController.js:56 [Sun Apr 23 2017 18:02:38 GMT+1000 (AUS Eastern Standard Time)] - north: red, south: red, west: yellow, east: yellow
+uiController.js:56 [Sun Apr 23 2017 18:03:09 GMT+1000 (AUS Eastern Standard Time)] - north: red, south: red, west: red, east: red
+uiController.js:56 [Sun Apr 23 2017 18:03:10 GMT+1000 (AUS Eastern Standard Time)] - north: green, south: green, west: red, east: red
+uiController.js:56 [Sun Apr 23 2017 18:07:41 GMT+1000 (AUS Eastern Standard Time)] - north: yellow, south: yellow, west: red, east: red
+uiController.js:56 [Sun Apr 23 2017 18:08:12 GMT+1000 (AUS Eastern Standard Time)] - north: red, south: red, west: red, east: red
+uiController.js:56 [Sun Apr 23 2017 18:08:13 GMT+1000 (AUS Eastern Standard Time)] - north: red, south: red, west: green, east: green
+uiController.js:56 [Sun Apr 23 2017 18:12:44 GMT+1000 (AUS Eastern Standard Time)] - north: red, south: red, west: yellow, east: yellow
+uiController.js:56 [Sun Apr 23 2017 18:13:15 GMT+1000 (AUS Eastern Standard Time)] - north: red, south: red, west: red, east: red
+uiController.js:56 [Sun Apr 23 2017 18:13:16 GMT+1000 (AUS Eastern Standard Time)] - north: green, south: green, west: red, east: red
+uiController.js:56 [Sun Apr 23 2017 18:17:47 GMT+1000 (AUS Eastern Standard Time)] - north: yellow, south: yellow, west: red, east: red
+uiController.js:56 [Sun Apr 23 2017 18:18:18 GMT+1000 (AUS Eastern Standard Time)] - north: red, south: red, west: red, east: red
+uiController.js:56 [Sun Apr 23 2017 18:18:19 GMT+1000 (AUS Eastern Standard Time)] - north: red, south: red, west: green, east: green
+uiController.js:56 [Sun Apr 23 2017 18:22:50 GMT+1000 (AUS Eastern Standard Time)] - north: red, south: red, west: yellow, east: yellow
+uiController.js:56 [Sun Apr 23 2017 18:23:21 GMT+1000 (AUS Eastern Standard Time)] - north: red, south: red, west: red, east: red
+uiController.js:56 [Sun Apr 23 2017 18:23:22 GMT+1000 (AUS Eastern Standard Time)] - north: green, south: green, west: red, east: red

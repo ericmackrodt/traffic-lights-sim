@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Traffic light simulator</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" type="text/css" href="css/traffic.css">
+    </head>
+    <body>
+        <button id="startBtn">Start Simulation</button>
+        <button id="pauseBtn" disabled> Pause Simulation</button>
+        <span>Current <span id="light"></span> light clock: <span id="clock">0</span>s</span>
+        <p>All lights will be red before the simulation starts</p>
+        <div id="intersection-group">
+            <div id="main-intersection" class="intersection">
+                <h3>Intersection</h3>
+                <ul class="traffic-lights-list">
+                    <li class="north">
+                        <span class="light red"></span>
+                        <span class="light yellow"></span>
+                        <span class="light green"></span>
+                        <span>North</span>
+                    </li>
+                    <li class="west">
+                        <span class="light red"></span>
+                        <span class="light yellow"></span>
+                        <span class="light green"></span>
+                        <span>West</span>
+                    </li>
+                    <li class="south">
+                        <span class="light red"></span>
+                        <span class="light yellow"></span>
+                        <span class="light green"></span>
+                        <span>South</span>
+                    </li>
+                    <li class="east">
+                        <span class="light red"></span>
+                        <span class="light yellow"></span>
+                        <span class="light green"></span>
+                        <span>East</span>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+        <script src="src/consts.js"></script>
+        <script src="src/pubsub.js"></script>
+        <script src="src/light.js"></script>
+        <script src="src/intersection.js"></script>
+        <script src="src/simulator.js"></script>
+        <script src="src/uiController.js"></script>
+        <script src="src/app.js"></script>
+    </body>
+</html>
