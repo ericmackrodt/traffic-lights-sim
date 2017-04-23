@@ -3,7 +3,7 @@
 Description
 -----------
 
-Simulates an intersection with four traffic lights (N, S, E, W). It cycles though lights in a 5 minute period until they are red and makes the ones that were previously red green again.
+Simulates an intersection with four traffic lights (N, S, E, W). It cycles though the traffic light colors in a 5 minute period until they are red and makes the ones that were previously red green again.
 
 Approach/Assumptions
 --------------------
