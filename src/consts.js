@@ -1,7 +1,4 @@
 // Support constants.
-// If we had support to commonjs or es6 imports via node, webpack or browserify
-// I probably woudn't have used the revealing pattern here.
-
 const constants = (() => {
     const INTERSECTION_INTERVAL_MS = 1000;
 
