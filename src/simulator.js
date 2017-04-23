@@ -14,7 +14,7 @@ class Simulator {
     }
 
     /**
-     * Esposes the current intersection
+     * Exposes the current intersection
      */
     get intersection() {
         return this._intersection;
@@ -55,7 +55,7 @@ class Simulator {
             // start the process over
             if (this._currentColor.activate) {
                 this._intersection.activateOppositeLights();
-                // The all lights will be red for a second if the line below is commented
+                // All lights will be red for a second if the line below is commented
                 // I believe they do that in real life for safety purposes, if that's not a requirement
                 // the next line can be uncommented.
                 // this._updateLights();
@@ -72,7 +72,7 @@ class Simulator {
      * Starts the simulation
      */
     start() {
-        this._interval = setInterval(() => this.updateSimulation(), constants.INTERSECTION_INTERVAL);
+        this._interval = setInterval(() => this.updateSimulation(), constants.INTERSECTION_INTERVAL_MS);
     }
 
     /**

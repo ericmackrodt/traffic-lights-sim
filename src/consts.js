@@ -3,8 +3,7 @@
 // I probably woudn't have used the revealing pattern here.
 
 const constants = (() => {
-    // Intersection loop interval. 1000 = 1s, adjust How fast the program should run.
-    const INTERSECTION_INTERVAL = 1000;
+    const INTERSECTION_INTERVAL_MS = 1000;
 
     // Constants for colors
     const colors = {
@@ -27,7 +26,7 @@ const constants = (() => {
             color: colors.GREEN, 
             duration: 270, 
             next: colors.YELLOW, 
-            active: false
+            activate: false
         },
         { 
             color: colors.YELLOW,
@@ -44,7 +43,7 @@ const constants = (() => {
     ];
 
     return {
-        INTERSECTION_INTERVAL,
+        INTERSECTION_INTERVAL_MS,
         colors,
         compass,
         colorSettings

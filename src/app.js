@@ -11,7 +11,7 @@
     // Event aggregator
     const pubsub = new Pubsub();
 
-    // Simulator instancel
+    // Simulator instance
     const simulator = new Simulator(intersection, pubsub);
 
     // Ui Controller instance
